@@ -5,7 +5,7 @@ import {
   streetTypes,
   streetDirections,
   provinces,
-  counrties,
+  countries,
   occupationTypes,
   incomeTypes,
   otherInfoTypes,
